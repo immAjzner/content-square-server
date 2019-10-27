@@ -1,0 +1,18 @@
+{
+  "name": "content-square-server",
+  "version": "1.0.0",
+  "description": "content square project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Immanuel Ajzner",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.15",
+    "moment": "^2.24.0",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4"
+  }
+}
