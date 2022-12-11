@@ -9,7 +9,7 @@
   "author": "Immanuel Ajzner",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "lodash": "^4.17.15",
     "moment": "^2.24.0",
     "body-parser": "^1.18.3",
